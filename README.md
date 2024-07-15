@@ -1,5 +1,6 @@
 # Weather App
-![Screenshot 2024-06-15 141314](https://github.com/ChethanHR10/Weather-webpage/assets/124980611/0db326ba-b600-4829-b560-cd5ebb88ba95)
+![image](https://github.com/user-attachments/assets/b7131910-244b-49f3-b360-b9905f9f0ced)
+
 
 
 ## Overview
@@ -11,7 +12,9 @@ The Weather App is a simple web application that provides weather information fo
 - Get current weather information for any city
 - Displays temperature, weather conditions, humidity, and wind speed
 - User-friendly interface
-- 
+- Allow users to search for weather information by city name.
+- Display current weather conditions including temperature, humidity, wind speed, and weather description.
+- Show a 5-day weather forecast with daily highs and lows and weather conditions.
 ## Installation
 
 To get a local copy up and running follow these simple steps:
